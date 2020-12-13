@@ -76,7 +76,7 @@ import { Carousel } from 'react-responsive-carousel';
                         aria-labelledby="simple-modal-title"
                         aria-describedby="simple-modal-description">
 
-                        <Carousel width="700px" dynamicHeight={true}> 
+                        <Carousel className="carouselSlide" dynamicHeight={true}> 
                         {this.state.childData.map((item,i) => <div><img src={item.href} alt={item.ref}/> 
                         <p className="legend">{item.ref}</p> </div>)}   
                        </Carousel>

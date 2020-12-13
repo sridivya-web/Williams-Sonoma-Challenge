@@ -8,7 +8,7 @@ import './Card.scss';
 export default function Card(props){
    
     return (
-         <div> 
+      
                 <div className="Cards"  style={{backgroundImage: `url(${props.product.hero.href})`}}  
                 onClick = {()=> {props.passToParent(props.product.images);}}> 
                         <div className="CardsTitle">
@@ -23,7 +23,7 @@ export default function Card(props){
                         </div>
                         
                 </div>
-        </div> 
+      
 
     )
 
