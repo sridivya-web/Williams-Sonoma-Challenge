@@ -14,7 +14,7 @@ To clone the repository using HTTPS, under "Clone with HTTPS" (or)
 To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH
 open Git Bash
 Go to your current working directory
-type it clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+type it clone https://github.com/sridivya-web/Williams-Sonoma-Challenge
 Press Enter to Create one 
 
 ## Running The App
