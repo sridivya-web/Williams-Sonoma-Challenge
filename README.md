@@ -19,14 +19,9 @@ Press Enter to Create one
 
 ## Running The App
 
-Go to your visual studio code, select the folder you created the project 
+Go to your visual studio code, select the folder you created in the project 
 Go to your terminal and Enter npm i or npm install 
-when everything is installed 
-Enter  
-### 'npm start'
-
-
-
+After all the packages are installed 
 
 In the project directory, you can run:
 
