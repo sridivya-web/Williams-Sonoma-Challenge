@@ -1,0 +1,7 @@
+.cardGrid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;   
+    text-align: center;
+    padding: 1rem;
+}

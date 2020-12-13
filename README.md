@@ -2,6 +2,32 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## OverView
+ The Project is about Williams-Sonoma's displaying their product catalogue 
+ and is built based on React JS framework and Vanila Javascript using High Coding standards 
+ and component reusability.
+
+## Installation 
+navigate to the main page of the repository
+click code
+To clone the repository using HTTPS, under "Clone with HTTPS" (or)
+To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH
+open Git Bash
+Go to your current working directory
+type it clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+Press Enter to Create one 
+
+## Running The App
+
+Go to your visual studio code, select the folder you created the project 
+Go to your terminal and Enter npm i or npm install 
+when everything is installed 
+Enter  
+### 'npm start'
+
+
+
+
 In the project directory, you can run:
 
 ### `npm start`

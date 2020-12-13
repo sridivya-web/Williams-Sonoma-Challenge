@@ -1,0 +1,18 @@
+.demo{
+    margin: 1rem;
+}
+  
+.modalClass {
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    justify-content:center;
+
+    .paper {
+        background-color: white;
+        width:40rem;
+        border: solid 1px black;
+        text-align: center;
+        scroll-behavior:inherit;
+    }
+}
